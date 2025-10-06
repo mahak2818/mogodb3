@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-catalog",
+  "version": "1.0.0",
+  "description": "E-commerce Catalog with Nested Document Structure in MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}
